@@ -4,6 +4,9 @@ This Python project idea aims to create a fun project that allows you to assess 
 
 It’s a very useful game to track your typing speed and improve it with regular practice.
 
+> Explanation:
+> You can find detailed explanation about this project on my hashnode profile [Here](https://mahendradew.hashnode.dev/typing-speed-test-python-project)
+
 # About App
 
 >At Startup
